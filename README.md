@@ -17,8 +17,8 @@
 <!--PINNED:START-->
 <a href="https://github.com/l41n-pr0t0/Enigmaa"><picture><source media="(min-width: 701px)" srcset="assets/pinned/Enigmaa.svg"><img src="assets/m/pinned/Enigmaa.svg" width="100%" alt="Enigmaa repository card"></picture></a>
 <a href="https://github.com/l41n-pr0t0/l41n-pr0t0"><picture><source media="(min-width: 701px)" srcset="assets/pinned/l41n-pr0t0.svg"><img src="assets/m/pinned/l41n-pr0t0.svg" width="100%" alt="l41n-pr0t0 repository card"></picture></a>
-<a href="https://github.com/l41n-pr0t0/Filevo"><picture><source media="(min-width: 701px)" srcset="assets/pinned/Filevo.svg"><img src="assets/m/pinned/Filevo.svg" width="100%" alt="Filevo repository card"></picture></a>
-<a href="https://github.com/l41n-pr0t0/l41n-pr0t0_Portfolio"><picture><source media="(min-width: 701px)" srcset="assets/pinned/l41n-pr0t0_Portfolio.svg"><img src="assets/m/pinned/l41n-pr0t0_Portfolio.svg" width="100%" alt="l41n-pr0t0_Portfolio repository card"></picture></a>
+<a href="https://github.com/l41n-pr0t0/TouchpadFlow"><picture><source media="(min-width: 701px)" srcset="assets/pinned/TouchpadFlow.svg"><img src="assets/m/pinned/TouchpadFlow.svg" width="100%" alt="TouchpadFlow repository card"></picture></a>
+<a href="https://github.com/l41n-pr0t0/Fedora-2026"><picture><source media="(min-width: 701px)" srcset="assets/pinned/Fedora-2026.svg"><img src="assets/m/pinned/Fedora-2026.svg" width="100%" alt="Fedora-2026 repository card"></picture></a>
 <!--PINNED:END-->
 
 <picture><source media="(min-width: 701px)" srcset="assets/layer-03.svg"><img src="assets/m/layer-03.svg" width="100%" alt="Layer 03, Great Fault: toolkit"></picture>
